@@ -1,4 +1,4 @@
-# yovpn
+# yovpn - An Awesome Project
 
 yovpn is a server that can be used to create VPN endpoints on public cloud infrastructure. Currently only DigitalOcean is supported as a provider.
 
